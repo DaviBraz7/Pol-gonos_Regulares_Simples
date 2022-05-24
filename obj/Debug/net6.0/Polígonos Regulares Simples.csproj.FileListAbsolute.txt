@@ -1,0 +1,15 @@
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.csproj.AssemblyReference.cache
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.AssemblyInfoInputs.cache
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.AssemblyInfo.cs
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\bin\Debug\net6.0\Polígonos Regulares Simples.exe
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\bin\Debug\net6.0\Polígonos Regulares Simples.deps.json
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\bin\Debug\net6.0\Polígonos Regulares Simples.runtimeconfig.json
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\bin\Debug\net6.0\Polígonos Regulares Simples.dll
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\bin\Debug\net6.0\Polígonos Regulares Simples.pdb
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.dll
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\refint\Polígonos Regulares Simples.dll
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.pdb
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\Polígonos Regulares Simples.genruntimeconfig.cache
+C:\Users\davis\Documents\csharp\Polígonos Regulares Simples\obj\Debug\net6.0\ref\Polígonos Regulares Simples.dll
